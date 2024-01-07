@@ -60,6 +60,7 @@ void loginFunRepo()async{
          "email": emailController.value.text,
          "password": passwordController.value.text}
    );
+   ///fagsfsf
    var data=jsonDecode(response.body);
    print(response.statusCode);
    print(data);
