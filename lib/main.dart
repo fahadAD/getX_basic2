@@ -4,7 +4,7 @@ import 'package:getx_basi2/binds.dart';
 import 'package:getx_basi2/signup.dart';
 import 'home.dart';
 import 'login.dart';
-
+         //fafffffffffff
 void main() {
   AllBinds().dependencies();
   runApp(const MyApp());
