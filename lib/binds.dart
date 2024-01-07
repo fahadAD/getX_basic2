@@ -10,5 +10,5 @@ class AllBinds extends Bindings{
    Get.lazyPut(() => loginController());
    Get.lazyPut(() => signupController());
   }
-        //fahad sami sad fahad ammu
+        //fahad
 }
